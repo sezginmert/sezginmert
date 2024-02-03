@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sezginmert</h1>
 <h4 align="center">Hello! I trained as a Testing Software Engineer at Wise Quarter, a leading software development company. I'm passionate about finding and fixing bugs, improving software quality, and keeping software products running smoothly. Developed and implemented various testing strategies using automation tools and test management platforms such as Postman, Selenium, and Jira. I have experience working with agile methodologies, collaborating and communicating effectively within a team, and identifying, reporting, and tracking software bugs.</h4>
 
-- 🔭 I’m currently working on **Software development engineer in test**
+- 🔭 I’m currently working on **Software Development Engineer in Test**
 
 - 📝 I regularly write articles on [https://medium.com/@sezginmert_](https://medium.com/@sezginmert_)
 
