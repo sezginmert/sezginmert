@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **CI/CD, SDLC and STLC**
 
-- 📫 How to reach me **prg.sezginmert@gmail.com**
+- 📫 How to reach me **sezginmertt@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
