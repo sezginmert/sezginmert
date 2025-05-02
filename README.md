@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Sezgin Mert</h1>
 <h4 align="center">I was trained as a Test Software Engineer. I'm passionate about finding and fixing bugs, improving software quality, and keeping software products running smoothly. Developed and implemented various testing strategies using automation tools and test management platforms such as Postman, Selenium, and Jira. I have experience working with agile methodologies, collaborating and communicating effectively within a team, and identifying, reporting, and tracking software bugs.</h4>
 
-- 🔭 I’m currently working on **Software Development Engineer in Test**
+- 🔭 I’m currently working on **Software QA Test Engineer**
 
 - 📝 I regularly write articles on [https://medium.com/@sezginmert_](https://medium.com/@sezginmert_)
 
