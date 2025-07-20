@@ -54,9 +54,6 @@
   <a href="https://karatelabs.io/" target="_blank" rel="noreferrer">
     <img src="https://logo.svgcdn.com/d/karatelabs-original.png" alt="karate" width="40" height="40"/>
   </a>
-  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Apache%20JMeter-268BD2?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="jmeter" width="120"/>
-  </a>
-
+  
 </p>
 
