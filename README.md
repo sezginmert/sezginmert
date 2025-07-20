@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Software QA Test Engineer**
 
-- 📝 I regularly write articles on [https://medium.com/@sezginmert_](https://medium.com/@sezginmert_)
+- 📝 I regularly write articles on [Medium](https://medium.com/@sezginmert_)
 
 - 💬 Ask me about **CI/CD, SDLC and STLC**
 
@@ -55,5 +55,19 @@
     <img src="https://logo.svgcdn.com/d/karatelabs-original.png" alt="karate" width="40" height="40"/>
   </a>
 
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" alt="intellij" width="40" height="40" style="border-radius: 50%;"/>
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/sezginmert" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="github" width="40" height="40" style="border-radius: 50%;"/>
+  </a>
+
+  <a href="https://slack.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="Slack" width="40" height="40" style="border-radius: 50%;" />
+</a>
 </p>
+
+
+
 
