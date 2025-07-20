@@ -55,6 +55,5 @@
     <img src="https://logo.svgcdn.com/d/karatelabs-original.png" alt="karate" width="40" height="40"/>
   </a>
 
-  
 </p>
 
