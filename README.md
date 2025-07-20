@@ -62,3 +62,16 @@
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" alt="intellij" width="40" height="40" style="border-radius: 50%;"/>
   <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="github" width="40" height="40" style="border-radius: 50%;"/>
 </p>
+
+
+# 📊 GitHub Stats:
+
+<!-- Genel GitHub istatistikleri -->
+![](https://github-readme-stats.vercel.app/api?username=sezginmert&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+<!-- GitHub aktivite "streak" (art arda günler) -->
+![](https://streak-stats.demolab.com?user=sezginmert&theme=dark&hide_border=false)
+
+<!-- En çok kullanılan diller -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sezginmert&theme=dark&hide_border=false&layout=compact)
+
