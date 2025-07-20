@@ -54,16 +54,6 @@
   <a href="https://karatelabs.io/" target="_blank" rel="noreferrer">
     <img src="https://logo.svgcdn.com/d/karatelabs-original.png" alt="karate" width="40" height="40"/>
   </a>
-  <a href="https://cucumber.io/" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cucumber.svg" alt="cucumber" width="40" height="40"
-      style="border-radius: 50%; background: black; padding: 5px; border: 2px solid #00A878; box-shadow: 0 0 5px #00A878;"/>
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jira.svg" alt="jira" width="40" height="40" 
-     style="border-radius: 50%; background: white; padding: 5px; border: 2px solid #0052CC;" />
-
-</a>
-
 
   
 </p>
